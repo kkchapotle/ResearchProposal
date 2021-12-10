@@ -9,3 +9,7 @@ p {
   text-align: justify;
   font-family: 'Source Sans 3', sans-serif;
 }
+
+nav {
+  background-color: #FCE4EC;
+}
