@@ -1,3 +1,7 @@
+* {
+  background-color: #493f42;
+}
+
 h1 {
   color: #F8BBD0;
   font-family: 'MonteCarlo', cursive;
@@ -8,6 +12,7 @@ h1 {
 p {
   text-align: justify;
   font-family: 'Source Sans 3', sans-serif;
+  color: #f8e5ef;
 }
 
 nav {
