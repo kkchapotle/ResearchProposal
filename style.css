@@ -2,3 +2,7 @@ h1 {
   color: #F33A6A;
   font-family: 'MonteCarlo', cursive;
 }
+
+p {
+  text-align: justify;
+}
