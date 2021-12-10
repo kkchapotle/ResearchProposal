@@ -1,6 +1,8 @@
 h1 {
   color: #F33A6A;
   font-family: 'MonteCarlo', cursive;
+  text-align: center;
+  font-size: 100px;
 }
 
 p {
