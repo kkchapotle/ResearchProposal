@@ -9,6 +9,10 @@ h1 {
   font-size: 100px;
 }
 
+h2 {
+  color: #f8e5ef;
+}
+
 p {
   text-align: justify;
   font-family: 'Source Sans 3', sans-serif;
